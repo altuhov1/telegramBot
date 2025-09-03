@@ -10,7 +10,7 @@ func main() {
 	t := mustTocken()
 	fmt.Println(t)
 	//token = flags.Get(token)
-
+	//тестим
 	//tgCLient = telegram.New(tocken)//8337556172:AAGIjLrGDmyElPTs4YC6sy520LE9zezIH6M
 
 	//fetcher = fetcher.New()
