@@ -9,8 +9,9 @@ import (
 func main() {
 	t := mustTocken()
 	fmt.Println(t)
-	fmt.Println("Все окей прошло")
+	fmt.Println("Все окейывадодлфоафдао")
 	//token = flags.Get(token)
+	//тестич
 	//tgCLient = telegram.New(tocken)//8337556172:AAGIjLrGDmyElPTs4YC6sy520LE9zezIH6M
 
 	//fetcher = fetcher.New()
@@ -19,7 +20,6 @@ func main() {
 
 	//consumer.Start(fetcher, processor)
 }
-
 func mustTocken() string {
 	token := flag.String("t",
 		"",
