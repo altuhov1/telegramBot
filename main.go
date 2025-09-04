@@ -11,7 +11,7 @@ func main() {
 	fmt.Println(t)
 	fmt.Println("Все окейывадодлфоафдао")
 	//token = flags.Get(token)
-	//тестич
+
 	//tgCLient = telegram.New(tocken)//8337556172:AAGIjLrGDmyElPTs4YC6sy520LE9zezIH6M
 
 	//fetcher = fetcher.New()
